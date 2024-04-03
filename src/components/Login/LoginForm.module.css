@@ -1,0 +1,48 @@
+.form {
+  position: absolute;
+  top: 10%;
+  left: 30%;
+  background-color: white;
+  padding: 30px 30px;
+  border-radius: 10px;
+}
+
+.form h1 {
+  margin: 0;
+  margin-bottom: 10px;
+}
+
+.form :last-child {
+  margin-bottom: 0;
+  margin-top: 10px;
+}
+
+.form p a {
+  text-decoration: none;
+}
+
+.form input {
+  display: block;
+  margin: 0 auto;
+  box-sizing: border-box;
+  width: 250px;
+  height: 40px;
+  margin-bottom: 2px;
+}
+
+.form button {
+  box-sizing: border-box;
+  width: 250px;
+  height: 40px;
+  background-color: black;
+  color: white;
+  margin-top: 5px;
+}
+
+.form button:hover {
+  cursor: pointer;
+}
+
+.form p {
+  margin: 0;
+}

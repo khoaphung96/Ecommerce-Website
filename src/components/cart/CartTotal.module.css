@@ -1,0 +1,30 @@
+.cart__total {
+  width: 270px;
+  background-color: rgb(240, 240, 240);
+  padding: 20px;
+  border-radius: 20px;
+}
+
+.cart__total h2 {
+  margin-top: 5px;
+}
+
+.cart__total-subtotal,
+.cart__total-total {
+  display: flex;
+  justify-content: space-between;
+  margin: 0;
+}
+
+.cart__total-subtotal h3,
+.cart__total-total h3,
+.cart__total-subtotal p,
+.cart__total-total p {
+  margin: 0px;
+}
+
+.cart__total-subtotal {
+  margin: 10px 0 15px 0;
+  border-bottom: 1px black solid;
+  padding-bottom: 10px;
+}

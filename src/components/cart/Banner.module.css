@@ -1,0 +1,13 @@
+.banner {
+  width: 1100px;
+  height: 200px;
+  background-color: rgb(240, 240, 240);
+  position: relative;
+  margin-bottom: 50px;
+}
+
+.banner h1 {
+  position: absolute;
+  top: 50px;
+  left: 50px;
+}

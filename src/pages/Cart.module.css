@@ -1,0 +1,30 @@
+.cart__content {
+  display: flex;
+  justify-content: space-between;
+  gap: 30px;
+}
+
+.cart__action {
+  display: flex;
+  justify-content: space-between;
+  width: 800px;
+  height: 40px;
+  padding: 10px 10px;
+  background-color: rgb(240, 240, 240);
+  margin-top: 10px;
+  align-items: center;
+}
+
+.cart__action a,
+.cart__noProd a {
+  text-decoration: none;
+}
+
+.cart__action a:hover,
+.cart__noProd a:hover {
+  color: red;
+}
+
+.cart__noProd {
+  text-align: center;
+}

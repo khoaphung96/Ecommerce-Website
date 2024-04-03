@@ -1,0 +1,27 @@
+.banner {
+  position: relative;
+}
+
+.banner__content {
+  position: absolute;
+  left: 50px;
+  top: 75px;
+  width: 300px;
+}
+
+.banner__content a {
+  text-decoration: none;
+  background-color: black;
+  color: white;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.banner__content h3 {
+  margin: 0;
+}
+
+.banner__content h1 {
+  margin-top: 10px;
+  margin-bottom: 20px;
+}

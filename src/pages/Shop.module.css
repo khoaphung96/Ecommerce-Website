@@ -1,0 +1,9 @@
+.shop__content {
+  display: flex;
+  justify-content: space-between;
+  gap: 30px;
+}
+
+.shop__content nav {
+  width: 250px;
+}

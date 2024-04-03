@@ -1,0 +1,28 @@
+.checkout__form-control {
+  margin-bottom: 20px;
+}
+
+.checkout__form-control h3 {
+  margin: 0px;
+  margin-bottom: 5px;
+}
+
+.checkout__form-control input {
+  box-sizing: border-box;
+  width: 680px;
+  height: 40px;
+  padding-left: 20px;
+}
+
+.checkout__form-action button {
+  background-color: black;
+  border: 1px solid black;
+  color: white;
+  height: 40px;
+  width: 120px;
+  margin-bottom: 10px;
+}
+
+.checkout__form-action button:hover {
+  cursor: pointer;
+}

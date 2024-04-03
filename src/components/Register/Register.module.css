@@ -1,0 +1,8 @@
+.register {
+  text-align: center;
+  position: relative;
+}
+
+.register img {
+  max-width: 100%;
+}
